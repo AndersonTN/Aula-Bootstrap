@@ -1,0 +1,29 @@
+
+body{
+    font: 20px Arial, sans-serif;
+}
+.navbar{
+    background-color: rgba(28, 68, 44, 0.600);
+    font-size: 135%;
+}
+
+.notícias{
+    background-color: rgba(128, 128, 128, 0.600);
+}
+
+.margin{
+    padding-top: 30px; /*margem interna*/
+    padding-bottom: 30px;
+}
+
+.história{
+    background-color: white;
+}
+.elenco{
+    background-color: black;
+    color: white;
+}
+
+.footer{
+    background-color: rgba(28, 68, 44, 0.600);
+}
